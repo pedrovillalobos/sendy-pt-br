@@ -1,7 +1,7 @@
 # Tradução do Sendy 3.0.5
 Tradução para o Português do Brasil para o sistema de envio de newsletters [Sendy](https://sendy.co/?ref=8mpQe).
 
-## Unificamos as traduções
+## Uma nova versão
 Por não conseguir modificar no Zanata, criei uma versão própria e atualizada.
 
 ## Baixar
