@@ -1,4 +1,4 @@
-# Tradução do Sendy 3.0.5
+# Tradução do Sendy 7.1.6
 Tradução para o Português do Brasil para o sistema de envio de newsletters [Sendy](https://sendy.co/?ref=8mpQe).
 
 ## Uma nova versão
